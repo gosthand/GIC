@@ -1,5 +1,5 @@
 module.exports = {
-    gitRepo: 'https://github.com/ephigabay/chatRepo.git',
+    gitRepo: 'git@github.com:gosthand/chatdemo.git',
     messageCheckInterval: 500,
     branchesCheckInterval: 5000
 };
